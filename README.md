@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Semty/Semty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://www.linkedin.com/in/ruslan-timchenko-353b18bb">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+</p>
 
-Here are some ideas to get you started:
+* 👨‍💻 Software Engineer
+* 🎨 UI/UX Enthusiast
+* 🐈 Cat Lover
+* 📱 Senior iOS Developer at Siilo
+* 🏠 Living in 🇳🇱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - 📫 How to reach me:
+email: flux.showing_0x@icloud.com
