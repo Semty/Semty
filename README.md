@@ -11,5 +11,5 @@
 * 📱 Senior iOS Developer at Siilo
 * 🏠 Living in 🇳🇱
 
-### - 📫 How to reach me:
+### 📫 How to reach me:
 email: flux.showing_0x@icloud.com
