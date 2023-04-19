@@ -12,4 +12,4 @@
 * 🏠 Living in 🇳🇱
 
 ### 📫 How to reach me:
-email: flux.showing_0x@icloud.com
+* flux.showing_0x@icloud.com
