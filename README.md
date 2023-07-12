@@ -8,7 +8,7 @@
 * 👨‍💻 Software Engineer
 * 🎨 UI/UX Enthusiast
 * 🐈 Cat Lover
-* 📱 Senior iOS Developer at Siilo
+* 📱 Senior iOS Developer at Doctolib (Siilo)
 * 🏠 Living in 🇳🇱
 
 ### 📫 How to reach me:
